@@ -22,4 +22,4 @@ To use this project you should:
 
 Contributors
 ============
-Justin Carr (@jhcarr)
+Justin Carr [@jhcarr](github.com/jhcarr/)
